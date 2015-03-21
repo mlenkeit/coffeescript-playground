@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mlenkeit/coffeescript-playground/issues"
   },
-  "homepage": "https://github.com/mlenkeit/coffeescript-playground"
+  "homepage": "https://github.com/mlenkeit/coffeescript-playground",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
